@@ -8,7 +8,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#f00000",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Zona": "Cerro Colorado"
       },
       "geometry": {
         "coordinates": [
@@ -57,7 +58,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#3700ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Zona": "Paucarpata"
       },
       "geometry": {
         "coordinates": [
@@ -114,7 +116,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#bbff00",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Zona": "Jose Luis Bustamante y Rivero"
       },
       "geometry": {
         "coordinates": [
@@ -159,7 +162,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#00fffb",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Zona": "Cayma"
       },
       "geometry": {
         "coordinates": [
